@@ -19,7 +19,7 @@
 
 ### :man_technologist: About Me :
 - I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-JJamroz23-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/jakub-jamr%C3%B3z-9124b1217/")
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-JJamroz23-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jakub-jamr%C3%B3z-9124b1217/)
   
   ---
 
